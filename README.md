@@ -1,2 +1,2 @@
-# V-Duy-Kh-ng
+# Vu Duy khuong
 Code Navie Bayes
